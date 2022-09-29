@@ -1,0 +1,2 @@
+I'm currently working on TheOdinProject's ciricculum "Foundations".
+In the instructions it told me to write something in this file to get knowledge of Git. 
